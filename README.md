@@ -1,6 +1,11 @@
 # capstone_project
 # Satellite Image Segmentation using U-Net Architecture
 
+Посилання на відео
+https://www.loom.com/share/4fec0e8e0c67410cb377815ef9245ff0
+
+
+
 ## Project Overview
 This repository contains the **Capstone Project** for the Deep Learning course. The project addresses a core problem in computer vision and remote sensing: **semantic image segmentation**. 
 
