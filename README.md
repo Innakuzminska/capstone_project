@@ -1,7 +1,7 @@
 # capstone_project
 # Satellite Image Segmentation using U-Net Architecture
 
-Посилання на відео
+# Посилання на відео
 https://www.loom.com/share/4fec0e8e0c67410cb377815ef9245ff0
 
 
